@@ -16,7 +16,8 @@ En groupe
 - SQL
 - CSS
 - HTML
-<br/> [![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,vscode,ai,github,git)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,vscode,ai,github,git)](https://skillicons.dev)
 
 ### Technologie :
 
