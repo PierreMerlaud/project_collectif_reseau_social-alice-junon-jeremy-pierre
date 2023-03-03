@@ -1,4 +1,4 @@
-# Réseau social en PHP
+# Réseau social en truc
 
 ## Descriptif :
 
